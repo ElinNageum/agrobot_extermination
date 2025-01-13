@@ -14,7 +14,8 @@ I’ve worked as a mechanical engineer in the Extermination subteam. My subteam 
 <div align="center">
   <img src="assets/extermination%20components.png" alt="Full Autonomous Robot" width="500">
 </div>
-<br>
+
+<hr style="height: 2px; border-width: 0; color: black; background-color: black;">
 
 I’ve been mainly responsible for the robotic arm project that is specifically customized to our needs in farming. Our new robotic arm must hold a camera for gathering the real-time data and be integrated with the pump for the herbicide sprayer. The project members and I have had many meetings since the beginning of this project in October 2024. After defining the problems of the previous design and brainstorming, we made several versions of CAD models using SolidWorks. In December 2024, we finalized the design, and 3D-printed our first physical prototype.
 
