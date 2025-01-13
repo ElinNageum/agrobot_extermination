@@ -64,11 +64,10 @@ Dimensions are pretty set at this stage. We ensured the location of each hole wa
 <div align="center">
   <img src="assets/robotic%20arm_prototyping_1.png" alt="Full Autonomous Robot" width="500">
 </div>
-<br>
-
-This is my side project – electronics housing. I learned how to effectively put components together taking the wiring system into consideration. Regarding the fact that our robot is made to deal with the water system, I had to develop an electronics housing with a water-proof feature to some extent, and the solution I found was utilizing cable glands.
 
 <hr style="height: 2px; border-width: 0; color: black; background-color: black;">
+
+This is my side project – electronics housing. I learned how to effectively put components together taking the wiring system into consideration. Regarding the fact that our robot is made to deal with the water system, I had to develop an electronics housing with a water-proof feature to some extent, and the solution I found was utilizing cable glands.
 
 ### electronics box (housing) and cable glands
 <div align="center">
