@@ -76,6 +76,4 @@ This is my side project – electronics housing. I learned how to effectively pu
 
 <hr style="height: 2px; border-width: 0; color: black; background-color: black;">
 
-As of the first half of 2025, My major ongoing task is early design cycle work for laser weeding. I am responsible for researching laser weeding strategies, outlining requirements, and sketching/submitting concepts for team-wide design review. 
-<br>
-While actively engaging with my duties, I look forward to strengthening the following skills: researching, good documentation practices, engineering sketches, mechanical design, concept pitching & presenting. 
+As of the first half of 2025, My major ongoing task is early design cycle work for laser weeding. I am responsible for researching laser weeding strategies, outlining requirements, and sketching/submitting concepts for team-wide design review. While actively engaging with my duties, I look forward to strengthening the following skills: researching, good documentation practices, engineering sketches, mechanical design, concept pitching & presenting. 
